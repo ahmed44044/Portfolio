@@ -1,0 +1,21 @@
+.typed-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.placeholder {
+  visibility: hidden;
+  white-space: nowrap;
+}
+
+.typed-text {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 32px;
+  }
+}
