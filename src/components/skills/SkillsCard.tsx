@@ -4,8 +4,8 @@ import Javascript from '../../assets/javascript.svg';
 import Nodejs from '../../assets/nodejs.svg';
 import ReactJS from '../../assets/react.svg';
 import Tailwind from '../../assets/tailwindcss.svg';
-import TS from '../../assets/ts.png'
-import Redux from '../../assets/redux.png'
+import TS from '../../assets/ts-logo-48px.svg';
+import Redux from '../../assets/redux-logo-48px.svg'
 
 
 type Skill = {
